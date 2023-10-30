@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\Bucle2\bin\Debug\net7.0\Bucle2.exe
+C:\Users\Carlos\Desktop\Programación\Bucle2\bin\Debug\net7.0\Bucle2.deps.json
+C:\Users\Carlos\Desktop\Programación\Bucle2\bin\Debug\net7.0\Bucle2.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\Bucle2\bin\Debug\net7.0\Bucle2.dll
+C:\Users\Carlos\Desktop\Programación\Bucle2\bin\Debug\net7.0\Bucle2.pdb
+C:\Users\Carlos\Desktop\Programación\Bucle2\obj\Debug\net7.0\Bucle2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\Bucle2\obj\Debug\net7.0\Bucle2.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\Bucle2\obj\Debug\net7.0\Bucle2.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\Bucle2\obj\Debug\net7.0\Bucle2.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\Bucle2\obj\Debug\net7.0\Bucle2.dll
+C:\Users\Carlos\Desktop\Programación\Bucle2\obj\Debug\net7.0\refint\Bucle2.dll
+C:\Users\Carlos\Desktop\Programación\Bucle2\obj\Debug\net7.0\Bucle2.pdb
+C:\Users\Carlos\Desktop\Programación\Bucle2\obj\Debug\net7.0\Bucle2.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\Bucle2\obj\Debug\net7.0\ref\Bucle2.dll
